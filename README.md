@@ -21,8 +21,8 @@ I also love to solve problems becuase to me, it's exciting. </br>
   * HTML/CSS (Beginner) <img src="icons/html_16x16.png" alt="HTML">
 </br>
 * Learning
-  * C# (Unity) <img src="icons/csharp_16x16.png" alt="C#">
-  * SQL
+ * C# (Unity) <img src="icons/csharp_16x16.png" alt="C#">
+ * SQL
 </br>
 </br>
 

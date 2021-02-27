@@ -22,8 +22,8 @@ I also love to solve problems becuase to me, it's exciting. </br>
 </br>
 
 * Learning
-  * C# <img src="icons/csharp_16x16.png" alt="C#">
-  * SQL
+ * C# (Unity) <img src="icons/csharp_16x16.png" alt="C#">
+ * SQL
 </br>
 </br>
 

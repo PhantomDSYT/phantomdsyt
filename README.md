@@ -19,11 +19,12 @@ I also love to solve problems becuase to me, it's exciting. </br>
   * C/C++ (Novice) <img src="icons/cpp_16x16.png" alt="C++">
   * Python (Beginner) <img src="icons/python_16x16.png" alt="Python">
   * HTML/CSS (Beginner) <img src="icons/html_16x16.png" alt="HTML">
+  * * C# (Unity and ASP.NET) <img src="icons/csharp_16x16.png" alt="C#">
+  * SQL
 </br>
 
 * Learning
-  * C# (Unity) <img src="icons/csharp_16x16.png" alt="C#">
-  * SQL
+  * Unreal Engine 5
 </br>
 </br>
 

@@ -7,7 +7,7 @@ I am an Information Technology student. </br>
 I am very passionate about games and game developement. </br>
 I also love to solve problems becuase to me, it's exciting. </br>
 
-* :video_game: I am currently learning Game Development via Unity.
+* :video_game: I am a Game Developer specialzing in Unity and currently learning Unreal Engine.
 * :bar_chart: I am currently working on Database-based applications .
 * :stars: I love coding because I get to express myself.
 </br>

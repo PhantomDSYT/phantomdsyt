@@ -13,18 +13,32 @@ I also love to solve problems becuase to me, it's exciting. </br>
 </br>
 </br>
 
+## Stack
+* Web Development
+ * HTML/CSS
+ * Bootstrap
+ * ASP. NET Core
+ * SQL
+ * Azure
+</br>
+
+* Game Development
+  * Unreal Engine 5
+  * Blender
+
 ## Languages
-* Learnt and using
+* Learnt
   * Java (Intermediate) <img src="icons/java_16x16.png" alt="Java">
   * C/C++ (Novice) <img src="icons/cpp_16x16.png" alt="C++">
   * Python (Beginner) <img src="icons/python_16x16.png" alt="Python">
   * HTML/CSS (Beginner) <img src="icons/html_16x16.png" alt="HTML">
   * C# (Unity and ASP.NET) <img src="icons/csharp_16x16.png" alt="C#">
+  * Unreal Engine 5
   * SQL
 </br>
 
 * Learning
-  * Unreal Engine 5
+  * PHP with WordPress
 </br>
 </br>
 

@@ -22,6 +22,7 @@ I also love to solve problems becuase to me, it's exciting. </br>
   * SQL
   * Azure
 </br>
+
 * Game Development
   * Unreal Engine 5
   * Blender

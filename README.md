@@ -13,18 +13,20 @@ I also love to solve problems becuase to me, it's exciting. </br>
 </br>
 </br>
 
-## Stack
+## Tech Stack
 * Web Development
- * HTML/CSS
- * Bootstrap
- * ASP. NET Core
- * SQL
- * Azure
+  *
+  * HTML/CSS
+  * Bootstrap
+  * ASP. NET Core
+  * SQL
+  * Azure
 </br>
-
 * Game Development
   * Unreal Engine 5
   * Blender
+</br>
+</br>
 
 ## Languages
 * Learnt
